@@ -1,0 +1,3 @@
+ObservedAgentID;ContractID;InstrumentID;ProtectionID;ProtectionProviderID;PrincipalProtectionProvider;ProtectionAllocatedValue;ThirdpartyPriorityClaimsAgainstTheProtection;EndDateOfInstrumentProtection;EndDateOfCounterpartyProtection
+624104;A100;A100;A100;1111;false;90000;50000;;
+624104;A101;A101;A101;2222;false;80000;50000;;
