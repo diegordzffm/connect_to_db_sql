@@ -2,7 +2,7 @@
 #pip install pyodbc
 #pip list
 """
-Connects to a SQL database using pyodbc, i.e., to acceptance db
+Connects to a SQL database using pyodbc, i.e., to  db
 """
 import pyodbc
 
